@@ -1,2 +1,2 @@
 # stundenplan-anzeige
-Array Übung für die Schule
+Array Übung in Java aus dem Schulunterricht
